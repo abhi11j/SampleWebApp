@@ -1,0 +1,4 @@
+# Example pinned dependencies
+requests==2.31.0
+flask==3.0.3
+numpy==1.26.4
